@@ -12,3 +12,4 @@ Day-3
 Task-1:Height measurement ,designed to determine whether a person is eligible to ride a rollercoaster based on their height. It prompts the user to input their height in centimeters and then evaluates the input with a series of conditions.
 Task-2:Write a program that works out whether if a given number is an odd or even number.
 Task-3:Write a program that, it defines the price of ticket depending on the height and age.If the children height are over 120 and under 18 then price is 7$ otherwise is 12$.
+Task-4:Write a program that, it defines the price of ticket depending on the height and age.If the children height are over 120 and  age< 12 then price= 5$ ,12<age<=18 then price= 7$, otherwise price is 12$
