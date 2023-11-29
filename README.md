@@ -17,3 +17,4 @@
 **Task-6:** Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February. 
 **Task-7:** Write a program that, it defines the price of ticket depending on the height and age.If the children height are over 120 and  age< 12 then price= 5$ ,12<age<=18 then price= 7$, otherwise price is 12$.If you want aslo photo taken then add +3$
 **Task-8:** You are going to write a program that tests the compatibility between two people. To work out the love score between two people: Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs. Then combine these numbers to make a 2 digit number.
+**Task-9:** Make your own "Choose Your Own Adventure" game. Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in your program.
