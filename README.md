@@ -18,3 +18,7 @@
 **Task-7:** Write a program that, it defines the price of ticket depending on the height and age.If the children height are over 120 and  age< 12 then price= 5$ ,12<age<=18 then price= 7$, otherwise price is 12$.If you want aslo photo taken then add +3$
 **Task-8:** You are going to write a program that tests the compatibility between two people. To work out the love score between two people: Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs. Then combine these numbers to make a 2 digit number.
 **Task-9:** Make your own "Choose Your Own Adventure" game. Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in your program.
+
+<h4>Day-4</h4>
+Task-1:You are going to write a virtual coin toss program. It will randomly tell the user "Heads" or "Tails".There are many ways of doing this. But to practice what we learnt in the last lesson, you should generate a random number, either 0 or 1. Then use that number to print out "Heads" or "Tails".
+
