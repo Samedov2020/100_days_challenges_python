@@ -23,4 +23,5 @@
 **Task-1:** You are going to write a virtual coin toss program. It will randomly tell the user "Heads" or "Tails".There are many ways of doing this. But to practice what we learnt in the last lesson, you should generate a random number, either 0 or 1. Then use that number to print out "Heads" or "Tails".
 **Task-2:** You are going to write a program that will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
 **Task-3** You are going to write a program that will mark a spot on a map with an X.In the starting code, you will find a variable called map.
+**Task-4** Write a programs -Game Paper,Rock,Scissors
 
