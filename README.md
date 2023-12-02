@@ -26,6 +26,8 @@
 **Task-4** Write a programs -Game Paper,Rock,Scissors
 
 <h4>Day-5</h4>
+**Task-1** You are going to write a program that calculates the average student height from a List of heights.
+
 
 
 
