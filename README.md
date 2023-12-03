@@ -33,6 +33,9 @@
 **Task-5** You are going to write a program that automatically prints the solution to the FizzBuzz game.
 **Task-6** You are going to write a program that generates password: easy password and hard password
 
+<h4>Day-6</h4>
+**Task-1** You are going to write a turn_right() function on https://reeborg.ca/
+
 
 
 
