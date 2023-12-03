@@ -34,7 +34,7 @@
 **Task-6** You are going to write a program that generates password: easy password and hard password
 
 <h4>Day-6</h4>
-**Task-1** You are going to write a turn_right() function on https://reeborg.ca/
+<b>Task-1</b> You are going to write a turn_right() function on https://reeborg.ca/
 <b>Task-2</b> You are going to write a jump() function on https://reeborg.ca/
 
 
