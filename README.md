@@ -31,6 +31,7 @@
 **Task-3** You are going to write a program that calculates the sum of all the even numbers from 1 to X. If X is 100 then the first even number would be 2 and the last one is 100
 **Task-4** You are going to write a program that calculates the sum of all the odd numbers from 1 to X. If X is 100 then the first odd number would be 1 and the last one is 99
 **Task-5** You are going to write a program that automatically prints the solution to the FizzBuzz game.
+**Task-6** You are going to write a program that generates password: easy password and hard password
 
 
 
