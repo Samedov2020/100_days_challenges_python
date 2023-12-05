@@ -40,6 +40,7 @@
 <b>Task-4</b> You are going to write a while loop with jump() function on https://reeborg.ca/.The condition at_goal() and its negation.
 <b>Task-5</b> You are going to write a while loop with the conditions front_is_clear() or wall_in_front(), at_goal(), and their negation.
 
+<h4>Day-7</h4>
 
 
 
