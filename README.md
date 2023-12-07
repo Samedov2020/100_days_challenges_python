@@ -40,6 +40,7 @@
 <b>Task-4</b> You are going to write a while loop with jump() function on https://reeborg.ca/.The condition at_goal() and its negation.
 <b>Task-5</b> You are going to write a while loop with the conditions front_is_clear() or wall_in_front(), at_goal(), and their negation.
 <b>Task-6</b> You are going to write a while loop with the conditions front_is_clear() or wall_in_front(), at_goal(), and their negation. Hurdle-4
+<b>Task-7</b> Lost in a maze.  Reeborg was exploring a dark maze and the battery in its flashlight ran out. Write a program using an if/elif/else statement so Reeborg can find the exit. The secret is to have Reeborg follow along the right edge of the maze, turning right if it can, going straight ahead if it can’t turn right, or turning left as a last resort.
 
 <h4>Day-7</h4>
 
