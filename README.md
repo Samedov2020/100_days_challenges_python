@@ -44,7 +44,9 @@
 
 <h4>Day-7</h4>
 <b>Task-1</b> You are going to write a code that it guesses the letter in a word.if player's guess is correct then print Right! else Wrong! Try again!
-<b>Task-2</b> You are going to write a code that it guesses the letter in a word.if player's guess is correct then print letter else _
+<b>Task-2</b> You are going to write a code that it guesses the letter in a word.if player's guess is correct then print letter else "_"
+<b>Task-3</b> Complete the word guesser game
+
 
 
 
