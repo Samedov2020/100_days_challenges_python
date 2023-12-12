@@ -4,7 +4,7 @@
 <b>Task:</b> Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 
 <h4>Day-2</h4>
- - <b>Task-1:</b> Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
+<b>Task-1:</b> Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
 <b>Task-2:</b> Create a program using maths and f-Strings that tells us how many weeks we have left, if we live until 90 years old.
 <b>Task-3:</b> Tip calculator - If the bill was $X, split between  people, with 10,12 0r 15% tip. 
 
@@ -43,7 +43,7 @@
 <b>Task-7</b> Lost in a maze.  Reeborg was exploring a dark maze and the battery in its flashlight ran out. Write a program using an if/elif/else statement so Reeborg can find the exit. The secret is to have Reeborg follow along the right edge of the maze, turning right if it can, going straight ahead if it can’t turn right, or turning left as a last resort. **Code works properly but in one case if reeborg respawns y4:x3 .then robot includes infinite loop**
 
 <h4>Day-7</h4>
-<b>Task-1</b>
+<b>Task-1</b> You are going to write a code that it guess the letter in a word.if player's guess is correct then print Right! else Wrong! Try again!
 
 
 
