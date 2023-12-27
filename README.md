@@ -50,6 +50,7 @@
 <b>Task-5</b> Improve the user experience on HangMang Game
 
 <h4>Day-8</h4>
+<b>Task-1</b> Write a first def(function) which prints messages for users
 
 
 
