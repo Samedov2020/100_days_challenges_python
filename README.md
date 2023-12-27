@@ -51,6 +51,7 @@
 
 <h4>Day-8</h4>
 <b>Task-1</b> Write a first def(function) which prints messages for users
+<b>Task-2</b> Write a def(function) and include a parametr 
 
 
 
