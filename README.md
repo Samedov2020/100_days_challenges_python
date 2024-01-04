@@ -4,8 +4,8 @@
 -  <b>Task:</b> Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 
 <h4>Day-2</h4>
-<b>Task-1:</b> Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
-<b>Task-2:</b> Create a program using maths and f-Strings that tells us how many weeks we have left, if we live until 90 years old.
+-  <b>Task-1:</b> Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
+-  <b>Task-2:</b> Create a program using maths and f-Strings that tells us how many weeks we have left, if we live until 90 years old.
 <b>Task-3:</b> Tip calculator - If the bill was $X, split between  people, with 10,12 0r 15% tip. 
 
 <h4>Day-3</h4>
