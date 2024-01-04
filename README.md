@@ -65,6 +65,7 @@
 <b>Task-2</b> You have access to a database of student_scores in the format of a dictionary. The keys in student_scores are the names of the students and the values are their exam scores.Write a program that converts their scores to grades. By the end of your program, you should have a new dictionary called student_grades that should contain student names for keys and their grades for values.
 <b>Task-3</b> Nesting list in dictionary/dictionary in list
 <b>Task-4</b> You are going to write a program that adds to a travel_log. You can see a travel_log which is a List that contains 2 Dictionaries. Your job is to create a function that can add new countries to this list.Write a function that will work with the following line of code on line 21 to add the entry for Brazil to the travel_log.
+<b>Task-5</b> Write an Aucion program - Day-9 Final
 
 
 
