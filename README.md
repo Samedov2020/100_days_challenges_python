@@ -1,7 +1,7 @@
 # 100_days_challenges_python
 
 <h4>Day-1</h4>
-<b>Task:</b> Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
+-  <b>Task:</b> Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 
 <h4>Day-2</h4>
 <b>Task-1:</b> Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
