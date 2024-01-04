@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  4 21:58:37 2024
-
-@author: 48513
-"""
-
+def format_name(f_name,l_name):
+    format_f_name=f_name.title()
+    format_l_name=l_name.title()
+    return f"{format_l_name} {format_f_name}"
+    print("This got printed")   #This will not print,because return says it is end of the function
+print(format_name("Ramil","SAmadov"))
