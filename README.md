@@ -69,6 +69,7 @@
 
 <h4>Day-10</h4>
 <b>Task-1</b> Functions with output - return
+<b>Task-2</b> Text inside the print() will not print because return says it is end of the function
 
 
 
