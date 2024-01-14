@@ -78,11 +78,13 @@
 <b>Task-8</b> Write a code that User can calculate miltiple operation at the same time <br/>
 
 <h4>Day-11</h4>
-<b>Task-1</b> Write a Black Jack - Card Game (Description inside the code)
-<b>Task-2</b> Write a Black Jack with restart option
+<b>Task-1</b> Write a Black Jack - Card Game (Description inside the code)   <br/>
+<b>Task-2</b> Write a Black Jack with restart option  <br/>
 
 <h4>Day-12</h4>
-
+<b>Task-1</b> Loacal and Global variables  <br/>
+<b>Task-2</b> Modify Local and Global variables (global)  <br/>
+<b>Task-3</b> Modify the Global variables by using return  <br/>
 
 
 
