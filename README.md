@@ -79,6 +79,7 @@
 
 <h4>Day-11</h4>
 <b>Task-1</b> Write a Black Jack - Card Game (Description inside the code)
+<b>Task-2</b> Write a Black Jack with restart option
 
 <h4>Day-12</h4>
 
