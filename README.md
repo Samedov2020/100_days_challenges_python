@@ -90,6 +90,7 @@
 
 <h4>Day-13</h4>
 <b>Task-1</b> Online Python compiler, visual debugger, and AI tutor  https://pythontutor.com/python-compiler.html#mode=edit
+<b>Task-2</b> If you have a problem ask https://stackoverflow.com/ or https://chat.openai.com/
 
 
 
