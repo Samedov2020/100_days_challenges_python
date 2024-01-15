@@ -86,6 +86,7 @@
 <b>Task-2</b> Modify Local and Global variables (global)  <br/>
 <b>Task-3</b> Modify the Global variables by using return  <br/>
 <b>Task-4</b> Global Constants   https://patorjk.com/software/taag/#p=display&f=Big&t=    <br/>
+<b>Task-5</b> Number Guessing Game - it has 2 mode .Easy and Hard.Easy=10HP, Hard=5HP and Range should be between 1-100.
 
 <h4>Day-13</h4>
 <b>Task-1</b> Online Python compiler, visual debugger, and AI tutor  https://pythontutor.com/python-compiler.html#mode=edit
