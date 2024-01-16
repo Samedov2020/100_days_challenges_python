@@ -89,8 +89,12 @@
 <b>Task-5</b> Number Guessing Game - it has 2 mode .Easy and Hard.Easy=10HP, Hard=5HP and Range should be between 1-100.
 
 <h4>Day-13</h4>
-<b>Task-1</b> Online Python compiler, visual debugger, and AI tutor  https://pythontutor.com/python-compiler.html#mode=edit
-<b>Task-2</b> If you have a problem ask https://stackoverflow.com/ or https://chat.openai.com/
+<b>Task-1</b> Online Python compiler, visual debugger, and AI tutor  https://pythontutor.com/python-compiler.html#mode=edit  <br/>
+<b>Task-2</b> If you have a problem ask https://stackoverflow.com/ or https://chat.openai.com/    <br/>
+
+<h4>Day-14</h4>
+<b>Task-1</b>
+
 
 
 
