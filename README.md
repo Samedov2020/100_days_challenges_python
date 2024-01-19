@@ -95,6 +95,8 @@
 <h4>Day-14</h4>
 <b>Task-1</b> Higher or Lower Game
 
+- Repeat All
+
 
 
 
